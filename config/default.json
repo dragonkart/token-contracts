@@ -1,0 +1,472 @@
+{
+    "tọkenName": "Gold",
+    "tọkenSymbol": "GLD",
+    "cap": "100000000000000000000000000",
+    "gap": "2592000",
+    "decimalString": "000000000000000000",
+    "releasePrivateMonthly": {
+        "total": "14000000",
+        "tge": "1400000",
+        "cliff": "5184000",
+        "duration": "44064000",
+        "elapsedTime": 0,
+        "releasableMonthly": "700000"
+    },
+    "releasePublicMonthly": {
+        "total": "4000000",
+        "tge": "1332000",
+        "cliff": "2592000",
+        "duration": "2592000",
+        "elapsedTime": 0,
+        "releasableMonthly": "1332000"
+    },
+    "releasePublicSaleByMonth": [
+        {
+            "total": "4000000",
+            "tge": "1333333",
+            "cliff": "2592000",
+            "duration": "2592000",
+            "elapsedTime": 0,
+            "releasable": "1333333"
+        },
+        {
+            "total": "4000000",
+            "tge": "1333333",
+            "cliff": "2592000",
+            "duration": "2592000",
+            "elapsedTime": "2592000",
+            "releasable": "2666666"
+        },
+        {
+            "total": "4000000",
+            "tge": "1333333",
+            "cliff": "2592000",
+            "duration": "2592000",
+            "elapsedTime": "5184000",
+            "releasable": "4000000"
+        }
+    ],
+    "releaseAdvisorByMonth": [
+        {
+            "total": "5000000",
+            "tge": "0",
+            "cliff": "15552000",
+            "duration": "44064000",
+            "elapsedTime": 0,
+            "releasable": "0"
+        },
+        {
+            "total": "5000000",
+            "tge": "0",
+            "cliff": "15552000",
+            "duration": "44064000",
+            "elapsedTime": "2592000",
+            "releasable": "0"
+        },
+        {
+            "total": "5000000",
+            "tge": "0",
+            "cliff": "15552000",
+            "duration": "44064000",
+            "elapsedTime": "5184000",
+            "releasable": "0"
+        },
+        {
+            "total": "5000000",
+            "tge": "0",
+            "cliff": "15552000",
+            "duration": "44064000",
+            "elapsedTime": "7776000",
+            "releasable": "0"
+        },
+        {
+            "total": "5000000",
+            "tge": "0",
+            "cliff": "15552000",
+            "duration": "44064000",
+            "elapsedTime": "10368000",
+            "releasable": "0"
+        },
+        {
+            "total": "5000000",
+            "tge": "0",
+            "cliff": "15552000",
+            "duration": "44064000",
+            "elapsedTime": "12960000",
+            "releasable": "277777"
+        },
+        {
+            "total": "5000000",
+            "tge": "0",
+            "cliff": "15552000",
+            "duration": "44064000",
+            "elapsedTime": "15552000",
+            "releasable": "555554"
+        },
+        {
+            "total": "5000000",
+            "tge": "0",
+            "cliff": "15552000",
+            "duration": "44064000",
+            "elapsedTime": "18144000",
+            "releasable": "833331"
+        },
+        {
+            "total": "5000000",
+            "tge": "0",
+            "cliff": "15552000",
+            "duration": "44064000",
+            "elapsedTime": "20736000",
+            "releasable": "1111108"
+        },
+        {
+            "total": "5000000",
+            "tge": "0",
+            "cliff": "15552000",
+            "duration": "44064000",
+            "elapsedTime": "23328000",
+            "releasable": "1388885"
+        },
+        {
+            "total": "5000000",
+            "tge": "0",
+            "cliff": "15552000",
+            "duration": "44064000",
+            "elapsedTime": "25920000",
+            "releasable": "1666662"
+        },
+        {
+            "total": "5000000",
+            "tge": "0",
+            "cliff": "15552000",
+            "duration": "44064000",
+            "elapsedTime": "28512000",
+            "releasable": "1944439"
+        },
+        {
+            "total": "5000000",
+            "tge": "0",
+            "cliff": "15552000",
+            "duration": "44064000",
+            "elapsedTime": "31104000",
+            "releasable": "2222216"
+        },
+        {
+            "total": "5000000",
+            "tge": "0",
+            "cliff": "15552000",
+            "duration": "44064000",
+            "elapsedTime": "33696000",
+            "releasable": "2499993"
+        },
+        {
+            "total": "5000000",
+            "tge": "0",
+            "cliff": "15552000",
+            "duration": "44064000",
+            "elapsedTime": "36288000",
+            "releasable": "2777770"
+        },
+        {
+            "total": "14000000",
+            "tge": "1400000",
+            "cliff": "5184000",
+            "duration": "44064000",
+            "elapsedTime": "38880000",
+            "releasable": "3055547"
+        },
+        {
+            "total": "14000000",
+            "tge": "1400000",
+            "cliff": "5184000",
+            "duration": "44064000",
+            "elapsedTime": "41472000",
+            "releasable": "3333324"
+        },
+        {
+            "total": "14000000",
+            "tge": "1400000",
+            "cliff": "5184000",
+            "duration": "44064000",
+            "elapsedTime": "44064000",
+            "releasable": "3611101"
+        },
+        {
+            "total": "14000000",
+            "tge": "1400000",
+            "cliff": "5184000",
+            "duration": "44064000",
+            "elapsedTime": "46656000",
+            "releasable": "3888878"
+        },
+        {
+            "total": "14000000",
+            "tge": "1400000",
+            "cliff": "5184000",
+            "duration": "44064000",
+            "elapsedTime": "46656000",
+            "releasable": "4166655"
+        },
+        {
+            "total": "14000000",
+            "tge": "1400000",
+            "cliff": "5184000",
+            "duration": "44064000",
+            "elapsedTime": "46656000",
+            "releasable": "4444432"
+        },
+        {
+            "total": "14000000",
+            "tge": "1400000",
+            "cliff": "5184000",
+            "duration": "44064000",
+            "elapsedTime": "46656000",
+            "releasable": "4722209"
+        },
+        {
+            "total": "14000000",
+            "tge": "1400000",
+            "cliff": "5184000",
+            "duration": "44064000",
+            "elapsedTime": "46656000",
+            "releasable": "5000000"
+        }
+    ],
+    "releasePrivateSaleByMonth": [
+        {
+            "total": "14000000",
+            "tge": "1400000",
+            "cliff": "5184000",
+            "duration": "44064000",
+            "elapsedTime": 0,
+            "releasable": "1400000"
+        },
+        {
+            "total": "14000000",
+            "tge": "1400000",
+            "cliff": "5184000",
+            "duration": "44064000",
+            "elapsedTime": "2592000",
+            "releasable": "1400000"
+        },
+        {
+            "total": "14000000",
+            "tge": "1400000",
+            "cliff": "5184000",
+            "duration": "44064000",
+            "elapsedTime": "5184000",
+            "releasable": "2100000"
+        },
+        {
+            "total": "14000000",
+            "tge": "1400000",
+            "cliff": "5184000",
+            "duration": "44064000",
+            "elapsedTime": "7776000",
+            "releasable": "2800000"
+        },
+        {
+            "total": "14000000",
+            "tge": "1400000",
+            "cliff": "5184000",
+            "duration": "44064000",
+            "elapsedTime": "10368000",
+            "releasable": "3500000"
+        },
+        {
+            "total": "14000000",
+            "tge": "1400000",
+            "cliff": "5184000",
+            "duration": "44064000",
+            "elapsedTime": "12960000",
+            "releasable": "4200000"
+        },
+        {
+            "total": "14000000",
+            "tge": "1400000",
+            "cliff": "5184000",
+            "duration": "44064000",
+            "elapsedTime": "15552000",
+            "releasable": "4900000"
+        },
+        {
+            "total": "14000000",
+            "tge": "1400000",
+            "cliff": "5184000",
+            "duration": "44064000",
+            "elapsedTime": "18144000",
+            "releasable": "5600000"
+        },
+        {
+            "total": "14000000",
+            "tge": "1400000",
+            "cliff": "5184000",
+            "duration": "44064000",
+            "elapsedTime": "20736000",
+            "releasable": "6300000"
+        },
+        {
+            "total": "14000000",
+            "tge": "1400000",
+            "cliff": "5184000",
+            "duration": "44064000",
+            "elapsedTime": "23328000",
+            "releasable": "7000000"
+        },
+        {
+            "total": "14000000",
+            "tge": "1400000",
+            "cliff": "5184000",
+            "duration": "44064000",
+            "elapsedTime": "25920000",
+            "releasable": "7000000"
+        },
+        {
+            "total": "14000000",
+            "tge": "1400000",
+            "cliff": "5184000",
+            "duration": "44064000",
+            "elapsedTime": "28512000",
+            "releasable": "7700000"
+        },
+        {
+            "total": "14000000",
+            "tge": "1400000",
+            "cliff": "5184000",
+            "duration": "44064000",
+            "elapsedTime": "31104000",
+            "releasable": "8400000"
+        },
+        {
+            "total": "14000000",
+            "tge": "1400000",
+            "cliff": "5184000",
+            "duration": "44064000",
+            "elapsedTime": "33696000",
+            "releasable": "9100000"
+        },
+        {
+            "total": "14000000",
+            "tge": "1400000",
+            "cliff": "5184000",
+            "duration": "44064000",
+            "elapsedTime": "36288000",
+            "releasable": "9800000"
+        },
+        {
+            "total": "14000000",
+            "tge": "1400000",
+            "cliff": "5184000",
+            "duration": "44064000",
+            "elapsedTime": "38880000",
+            "releasable": "10500000"
+        },
+        {
+            "total": "14000000",
+            "tge": "1400000",
+            "cliff": "5184000",
+            "duration": "44064000",
+            "elapsedTime": "41472000",
+            "releasable": "11200000"
+        },
+        {
+            "total": "14000000",
+            "tge": "1400000",
+            "cliff": "5184000",
+            "duration": "44064000",
+            "elapsedTime": "44064000",
+            "releasable": "11900000"
+        },
+        {
+            "total": "14000000",
+            "tge": "1400000",
+            "cliff": "5184000",
+            "duration": "44064000",
+            "elapsedTime": "46656000",
+            "releasable": "12600000"
+        }
+    ],
+    "timePhase": {
+        "1": "2592000",
+        "2": "5184000",
+        "3": "7776000",
+        "4": "10368000",
+        "5": "12960000",
+        "6": "15552000",
+        "7": "18144000",
+        "8": "20736000",
+        "9": "23328000",
+        "10": "25920000",
+        "11": "28512000",
+        "12": "31104000",
+        "13": "33696000",
+        "14": "36288000",
+        "15": "38880000",
+        "16": "41472000",
+        "17": "44064000",
+        "18": "46656000",
+        "19": "49248000",
+        "20": "51840000",
+        "21": "54432000",
+        "22": "57024000",
+        "23": "59616000",
+        "24": "62208000",
+        "35": "90720000",
+        "36": "93312000",
+        "47": "121824000",
+        "48": "124416000",
+        "60": "155520000"
+    },
+    "tokenOfTeam": {
+        "PrivateSale": "14000000",
+        "PublicSale": "4000000",
+        "Team": "15000000",
+        "Advisor": "5000000",
+        "Liquidity": "5000000",
+        "Incentives": "35000000",
+        "Marketing": "12000000",
+        "Reserve": "10000000"
+    },
+    "tgeOfTeam": {
+        "PrivateSale": 10,
+        "PublicSale": 33,
+        "Team": 0,
+        "Advisor": 0,
+        "Liquidity": 100,
+        "Incentives": 0,
+        "Marketing": 0,
+        "Reserve": 0
+    },
+    "cliffOfTeam": {
+        "PrivateSale": "5184000",
+        "PublicSale": "0",
+        "Team": "31104000",
+        "Advisor": "15552000",
+        "Liquidity": "0",
+        "Incentives": "0",
+        "Marketing": "0",
+        "Reserve": "124416000"
+    },
+    "durationOfTeam": {
+        "PrivateSale": 18,
+        "PublicSale": 2,
+        "Team": 36,
+        "Advisor": 16,
+        "Liquidity": 0,
+        "Incentives": 48,
+        "Marketing": 36,
+        "Reserve": 48
+    },
+    "participant": {
+        "Unknown": 0,
+        "PrivateSale": 1,
+        "PublicSale": 2,
+        "Team": 3,
+        "Advisor": 4,
+        "Liquidity": 5,
+        "Incentives": 6,
+        "Marketing": 7,
+        "Reserve": 8,
+        "OutOfRange": 9
+    }
+}
